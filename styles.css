@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+.google-logo {
+    font-size: 30px;
+    font-weight: bold;
+  position: absolute;
+  top: 50px;
+  right: 190px;
+}
+
+.google-logo span {
+    color: #4285F4;
+}
+
+.google-logo .g {
+    color: #DB4437;
+}
+
+.google-logo .o1 {
+    color: #F4B400;
+}
+
+.google-logo .o2 {
+    color: #4285F4;
+}
+
+.google-logo .l {
+    color: #0F9D58;
+}
+
+.google-logo .e{
+    color: #DB4437;
+}
+applet
